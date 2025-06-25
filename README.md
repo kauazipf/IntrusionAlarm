@@ -73,8 +73,22 @@ O projeto também utiliza resistores pull-down para o LDR e LED, garantindo leit
 
 ---
 
+## 🎥 Demonstração em Vídeo
+
+Confira a demonstração prática deste projeto no link abaixo:
+
+🔗 [Assista ao vídeo demonstrativo do sistema](https://www.youtube.com/watch?v=mQVrvYY-aeE)
+
+---
+
+## 🔗 Link do Wokwi
+
+Utilize se necessário:
+
+🔗[Entre no Wokwi]([https://exemplo.com/video](https://wokwi.com/projects/434599227783251969)
+
 ## ✅ Possíveis Melhorias
 
-- Enviar notificações via Wi-Fi/MQTT.
-- Adicionar um teclado ou botão de desativação.
+- Enviar notificações via Wi-Fi/MQTT para celular.
+- Adicionar botão de desativação do alarme.
 - Integrar com sistema de câmeras ou app mobile.
