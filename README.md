@@ -85,7 +85,7 @@ Confira a demonstração prática deste projeto no link abaixo:
 
 Utilize se necessário:
 
-🔗[Entre no Wokwi]([https://exemplo.com/video](https://wokwi.com/projects/434599227783251969)
+🔗[Entre no Wokwi](https://wokwi.com/projects/434599227783251969)
 
 ## ✅ Possíveis Melhorias
 
